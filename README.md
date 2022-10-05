@@ -1,4 +1,4 @@
-# ggpy jgpy => GGPY G for someone
+# JGPY => GGPY G for someone
 
 吉光片羽 
 片羽：一片羽毛；指吉光身上的一小块毛皮；
